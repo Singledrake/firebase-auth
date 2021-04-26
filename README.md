@@ -1,14 +1,16 @@
 # Requirements
-Node JS: >=14.16.0
-NPM: >= 7.9.0
-You need to have the REACT pre-installation package installed:
-es: https://www.youtube.com/watch?v=_o7f2NEFD1c&ab_channel=FalconMasters
-en: https://www.youtube.com/watch?v=IbWXHfz91_Y&ab_channel=HongLy
+
+Node JS: >=14.16.0.\
+NPM: >= 7.9.0.\
+You need to have the REACT pre-installation package installed:.\
+es: https://www.youtube.com/watch?v=_o7f2NEFD1c&ab_channel=FalconMasters .\
+en: https://www.youtube.com/watch?v=IbWXHfz91_Y&ab_channel=HongLy .\
 
 # Initial Steps
-1. In your terminal run the next command: npm install
-2. Put your configuration(your keys of conection) of firebase in the file on the next route: `./src/firebase.config.js`
-3. To start de project run the next command in your terminal: npm start
+
+1. In your terminal run the next command: npm install.\
+2. Put your configuration(your keys of conection) of firebase in the file on the next route: `./src/firebase.config.js`.\
+3. To start de project run the next command in your terminal: npm start.\
 
 # Getting Started with Create React App
 
